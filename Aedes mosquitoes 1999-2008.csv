@@ -1,0 +1,250 @@
+VECTOR,OCCURRENCE_ID,SOURCE_TYPE,LOCATION_TYPE,POLYGON_ADMIN,Y,X,YEAR,COUNTRY,COUNTRY_ID,GAUL_AD0,STATUS
+Aedes aegypti,2023,published,point,-999,10.13,-3.45,1999,Burkina Faso,BFA,42,NA
+Aedes aegypti,2034,published,point,-999,12.55,-12.18,1999,Senegal,SEN,217,NA
+Aedes aegypti,2035,published,point,-999,12.56,-12.17,1999,Senegal,SEN,217,NA
+Aedes aegypti,2041,published,point,-999,15.28,-14.28,1999,Senegal,SEN,217,NA
+Aedes aegypti,2196,published,point,-999,7.69,-5.03,2000,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2197,published,point,-999,9.07,-1.81,2000,Ghana,GHA,94,NA
+Aedes aegypti,2199,published,point,-999,10.53,-2.7,2000,Ghana,GHA,94,NA
+Aedes aegypti,2205,published,point,-999,10.79,-0.85,2000,Ghana,GHA,94,NA
+Aedes aegypti,2208,published,point,-999,10.87,-1.98,2000,Ghana,GHA,94,NA
+Aedes aegypti,2210,published,point,-999,12.53,-12.31,2000,Senegal,SEN,217,NA
+Aedes aegypti,2216,published,point,-999,14.41,-12.9,2000,Senegal,SEN,217,NA
+Aedes aegypti,2373,published,point,-999,5.34,-4.02,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2374,published,point,-999,5.83,-5.66,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2375,published,point,-999,5.83,-5.36,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2376,published,point,-999,6.31,-5.93,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2377,published,point,-999,6.48,-6.28,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2378,published,point,-999,6.54,-7.48,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2379,published,point,-999,6.66,-7.25,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2380,published,point,-999,6.87,-6.45,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2381,published,point,-999,6.91,-8.2,2001,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,2385,published,point,-999,9.26,-9.01,2001,Guinea,GIN,106,NA
+Aedes aegypti,2386,published,point,-999,9.51,-13.72,2001,Guinea,GIN,106,NA
+Aedes aegypti,2387,published,point,-999,9.86,-12.63,2001,Guinea,GIN,106,NA
+Aedes aegypti,2388,published,point,-999,10.03,-10.73,2001,Guinea,GIN,106,NA
+Aedes aegypti,2389,published,point,-999,10.06,-12.85,2001,Guinea,GIN,106,NA
+Aedes aegypti,2395,published,point,-999,10.38,-9.3,2001,Guinea,GIN,106,NA
+Aedes aegypti,2397,published,point,-999,10.7,-12.25,2001,Guinea,GIN,106,NA
+Aedes aegypti,2398,published,point,-999,10.75,-11.11,2001,Guinea,GIN,106,NA
+Aedes aegypti,2399,published,point,-999,10.9,-13.03,2001,Guinea,GIN,106,NA
+Aedes aegypti,2400,published,point,-999,11.08,-12.4,2001,Guinea,GIN,106,NA
+Aedes aegypti,2401,published,point,-999,11.31,-12.28,2001,Guinea,GIN,106,NA
+Aedes aegypti,2403,published,point,-999,11.45,-11.68,2001,Guinea,GIN,106,NA
+Aedes aegypti,2417,published,point,-999,11.58,-11.9,2001,Guinea,GIN,106,NA
+Aedes aegypti,2421,published,polygon,NA,11.72,-12.02,2001,Guinea,GIN,106,NA
+Aedes aegypti,2422,published,point,-999,11.75,-13.2,2001,Guinea,GIN,106,NA
+Aedes aegypti,2425,published,point,-999,12.08,-12.3,2001,Guinea,GIN,106,NA
+Aedes aegypti,2547,published,point,-999,2.92,11.15,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2548,published,point,-999,2.93,11.98,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2549,published,point,-999,3.52,11.5,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2550,published,point,-999,3.87,11.52,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2551,published,point,-999,3.9,12.53,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2552,published,point,-999,4.02,9.19,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2553,published,point,-999,4.05,9.71,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2554,published,point,-999,4.07,9.37,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2555,published,point,-999,4.16,9.23,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2556,published,point,-999,4.43,14.36,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2557,published,point,-999,4.5,9.57,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2558,published,point,-999,4.58,13.68,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2559,published,point,-999,5.3,9.9,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2560,published,point,-999,5.45,10.05,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2561,published,point,-999,5.49,10.41,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2563,published,point,-999,5.89,14.55,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2564,published,point,-999,5.96,10.15,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2565,published,point,-999,6.09,11.49,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2567,published,point,-999,6.47,12.62,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2569,published,point,-999,7.33,13.58,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2572,published,point,-999,9.3,13.4,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2574,published,point,-999,9.4,13.51,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40355,published,point,-999,2.92,11.15,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40356,published,point,-999,2.93,11.98,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40357,published,point,-999,3.52,11.5,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40358,published,point,-999,3.87,11.52,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40359,published,point,-999,3.9,12.53,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40360,published,point,-999,4.02,9.19,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40361,published,point,-999,4.05,9.71,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40362,published,point,-999,4.07,9.37,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40363,published,point,-999,4.16,9.23,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40364,published,point,-999,4.43,14.36,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40365,published,point,-999,4.5,9.57,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40366,published,point,-999,4.58,13.68,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40367,published,point,-999,5.3,9.9,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40368,published,point,-999,5.45,10.05,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40369,published,point,-999,5.49,10.41,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40370,published,point,-999,5.89,14.55,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40371,published,point,-999,5.96,10.15,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40372,published,point,-999,6.09,11.49,2002,Cameroon,CMR,45,NA
+Aedes albopictus,40373,published,point,-999,6.47,12.62,2002,Cameroon,CMR,45,NA
+Aedes aegypti,2562,published,point,-999,5.78,7.03,2002,Nigeria,NGA,182,NA
+Aedes albopictus,39882,published,point,-999,5.78,7.03,2002,Nigeria,NGA,182,NA
+Aedes albopictus,39883,published,point,-999,5.82,6.93,2002,Nigeria,NGA,182,NA
+Aedes aegypti,2631,published,point,-999,12.53,-12.2,2002,Senegal,SEN,217,NA
+Aedes aegypti,2632,published,point,-999,12.6,-12.23,2002,Senegal,SEN,217,NA
+Aedes aegypti,2643,published,point,-999,14.42,-14.75,2002,Senegal,SEN,217,NA
+Aedes aegypti,2644,published,point,-999,14.87,-15.89,2002,Senegal,SEN,217,NA
+Aedes aegypti,2645,published,point,-999,15.28,-14.87,2002,Senegal,SEN,217,NA
+Aedes aegypti,2908,published,point,-999,12.56,-12.17,2003,Senegal,SEN,217,NA
+Aedes aegypti,2916,published,point,-999,13.8,-15.92,2003,Senegal,SEN,217,NA
+Aedes aegypti,2920,published,point,-999,14.42,-14.8,2003,Senegal,SEN,217,NA
+Aedes aegypti,2921,published,point,-999,14.48,-16.4,2003,Senegal,SEN,217,NA
+Aedes aegypti,2922,published,point,-999,14.64,-16.44,2003,Senegal,SEN,217,NA
+Aedes aegypti,2923,published,point,-999,14.67,-17.44,2003,Senegal,SEN,217,NA
+Aedes aegypti,2925,published,point,-999,15.72,-15.33,2003,Senegal,SEN,217,NA
+Aedes aegypti,3134,published,point,-999,9.4,13.51,2004,Cameroon,CMR,45,NA
+Aedes aegypti,3146,published,point,-999,10.25,14.23,2004,Cameroon,CMR,45,NA
+Aedes aegypti,3155,published,point,-999,10.74,13.81,2004,Cameroon,CMR,45,NA
+Aedes aegypti,3157,published,point,-999,10.97,13.92,2004,Cameroon,CMR,45,NA
+Aedes aegypti,3135,published,point,-999,9.5,-13.72,2004,Guinea,GIN,106,NA
+Aedes aegypti,3177,published,point,-999,14.67,-17.44,2004,Senegal,SEN,217,NA
+Aedes aegypti,,"Kirby, M. J., West, P., Green, C., Jasseh, M., & Lindsay, S. W. (2008). Risk factors for house-entry by culicine mosquitoes in a rural town and satellite villages in The Gambia. Parasites & Vectors, 1(1), 41.",point,-999,13.57,-15.6,2005,Gambia,GMB,,NEW
+Aedes aegypti,3310,published,Less than 10km,Less than 10km,7.15,3.36,2005,Nigeria,NGA,182,NA
+Aedes albopictus,41476,published,Less than 10km,Less than 10km,7.15,3.36,2005,Nigeria,NGA,182,NA
+Aedes aegypti,3386,published,point,-999,14.48,-16.54,2005,Senegal,SEN,217,NA
+Aedes aegypti,3388,published,point,-999,14.68,-17.44,2005,Senegal,SEN,217,NA
+Aedes aegypti,3389,published,point,-999,14.75,-17.47,2005,Senegal,SEN,217,NA
+Aedes aegypti,3548,published,Less than 25km,Less than 25km,4.05,9.7,2006,Cameroon,CMR,45,NA
+Aedes aegypti,3558,published,Less than 25km,Less than 25km,9.3,13.4,2006,Cameroon,CMR,45,NA
+Aedes albopictus,41475,published,Less than 25km,Less than 25km,4.05,9.7,2006,Cameroon,CMR,45,NA
+Aedes aegypti,3526,published,point,-999,-1.65,11.98,2006,Gabon,GAB,89,NA
+Aedes aegypti,3538,published,point,-999,0.29,9.51,2006,Gabon,GAB,89,NA
+Aedes aegypti,3539,published,point,-999,0.39,9.45,2006,Gabon,GAB,89,NA
+Aedes aegypti,3540,published,point,-999,0.39,9.45,2006,Gabon,GAB,89,NA
+Aedes albopictus,40084,published,point,-999,0.29,9.51,2006,Gabon,GAB,89,NA
+Aedes albopictus,40085,published,point,-999,0.37,9.5,2006,Gabon,GAB,89,NA
+Aedes albopictus,41001,published,point,-999,-1.65,11.98,2006,Gabon,GAB,89,NA
+Aedes albopictus,41002,published,point,-999,0.39,9.45,2006,Gabon,GAB,89,NA
+Aedes aegypti,3555,published,Less than 10km,Less than 10km,7.15,3.36,2006,Nigeria,NGA,182,NA
+Aedes aegypti,3556,published,point,-999,7.16,3.35,2006,Nigeria,NGA,182,NA
+Aedes albopictus,41477,published,Less than 10km,Less than 10km,7.15,3.36,2006,Nigeria,NGA,182,NA
+Aedes aegypti,3595,published,point,-999,12.41,-12.01,2006,Senegal,SEN,217,NA
+Aedes aegypti,3596,published,point,-999,12.41,-12.01,2006,Senegal,SEN,217,NA
+Aedes aegypti,3597,published,point,-999,12.6,-12.23,2006,Senegal,SEN,217,NA
+Aedes aegypti,3598,published,point,-999,12.6,-12.23,2006,Senegal,SEN,217,NA
+Aedes aegypti,3599,published,point,-999,12.63,-12.25,2006,Senegal,SEN,217,NA
+Aedes aegypti,3600,published,point,-999,12.63,-12.23,2006,Senegal,SEN,217,NA
+Aedes aegypti,3601,published,point,-999,12.63,-12.25,2006,Senegal,SEN,217,NA
+Aedes aegypti,3603,published,point,-999,12.83,-11.76,2006,Senegal,SEN,217,NA
+Aedes aegypti,3604,published,point,-999,12.83,-11.75,2006,Senegal,SEN,217,NA
+Aedes aegypti,3605,published,point,-999,13.01,-12.55,2006,Senegal,SEN,217,NA
+Aedes aegypti,3606,published,point,-999,13.02,-12.55,2006,Senegal,SEN,217,NA
+Aedes aegypti,3608,published,point,-999,13.21,-13.11,2006,Senegal,SEN,217,NA
+Aedes aegypti,3609,published,point,-999,13.22,-13.12,2006,Senegal,SEN,217,NA
+Aedes aegypti,3612,published,point,-999,13.77,-13.68,2006,Senegal,SEN,217,NA
+Aedes aegypti,3613,published,point,-999,13.77,-13.68,2006,Senegal,SEN,217,NA
+Aedes aegypti,3616,published,point,-999,13.98,-14.8,2006,Senegal,SEN,217,NA
+Aedes aegypti,3617,published,point,-999,13.98,-14.82,2006,Senegal,SEN,217,NA
+Aedes aegypti,3618,published,point,-999,14.07,-15.3,2006,Senegal,SEN,217,NA
+Aedes aegypti,3619,published,point,-999,14.07,-15.3,2006,Senegal,SEN,217,NA
+Aedes aegypti,3620,published,point,-999,14.11,-15.55,2006,Senegal,SEN,217,NA
+Aedes aegypti,3621,published,point,-999,14.11,-15.55,2006,Senegal,SEN,217,NA
+Aedes aegypti,3887,published,Less than 10km,Less than 10km,3.8,10.13,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3888,published,Less than 25km,Less than 25km,3.85,11.5,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3889,published,point,-999,3.85,10.52,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3890,published,Less than 100km,Less than 100km,3.87,11.52,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3891,published,Less than 25km,Less than 25km,3.87,11.52,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3892,published,point,-999,3.91,12.53,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3894,published,point,-999,3.98,13.17,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3895,published,Less than 25km,Less than 25km,4.05,9.7,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3900,published,Less than 25km,Less than 25km,4.17,9.23,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3905,published,point,-999,4.58,13.68,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3908,published,point,-999,4.75,11.22,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3909,published,point,-999,5.14,10.52,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3910,published,Less than 25km,Less than 25km,5.47,10.42,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3911,published,point,-999,5.89,14.55,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3912,published,Less than 25km,Less than 25km,5.96,10.16,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3914,published,point,-999,6.52,14.29,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3919,published,Less than 25km,Less than 25km,7.32,13.58,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3922,published,Less than 10km,Less than 10km,7.86,13.6,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3923,published,point,-999,8.25,13.82,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3928,published,Less than 25km,Less than 25km,9.3,13.4,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3953,published,Less than 25km,Less than 25km,10.58,14.33,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3989,published,point,-999,12.08,15.03,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41378,published,point,-999,3.83,10.55,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41379,published,Less than 100km,Less than 100km,3.87,11.52,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41380,published,point,-999,4.03,9.68,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41381,published,point,-999,4.15,9.22,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41382,published,point,-999,5.48,10.43,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41383,published,point,-999,5.88,14.55,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41390,published,Less than 10km,Less than 10km,4.17,9.23,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41391,published,Less than 25km,Less than 25km,9.3,13.4,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41525,published,Less than 10km,Less than 10km,3.8,10.13,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41526,published,point,-999,3.85,10.52,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41527,published,Less than 25km,Less than 25km,3.87,11.52,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41528,published,point,-999,3.91,12.53,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41529,published,point,-999,3.98,13.17,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41530,published,Less than 25km,Less than 25km,4.05,9.7,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41531,published,point,-999,4.58,13.68,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41532,published,point,-999,4.75,11.22,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41533,published,point,-999,5.14,10.52,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41534,published,Less than 25km,Less than 25km,5.47,10.42,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41535,published,point,-999,5.89,14.55,2007,Cameroon,CMR,45,NA
+Aedes albopictus,41536,published,Less than 25km,Less than 25km,5.96,10.16,2007,Cameroon,CMR,45,NA
+Aedes aegypti,3850,published,point,-999,-0.83,12.72,2007,Gabon,GAB,89,NA
+Aedes aegypti,3851,published,point,-999,0.31,9.51,2007,Gabon,GAB,89,NA
+Aedes aegypti,3852,published,point,-999,0.37,9.46,2007,Gabon,GAB,89,NA
+Aedes aegypti,3853,published,point,-999,0.38,9.46,2007,Gabon,GAB,89,NA
+Aedes aegypti,3854,published,Less than 100km,Less than 100km,0.39,9.45,2007,Gabon,GAB,89,NA
+Aedes aegypti,3855,published,point,-999,0.39,9.45,2007,Gabon,GAB,89,NA
+Aedes aegypti,3856,published,point,-999,0.39,9.48,2007,Gabon,GAB,89,NA
+Aedes aegypti,3857,published,point,-999,0.4,9.48,2007,Gabon,GAB,89,NA
+Aedes aegypti,3858,published,point,-999,0.41,9.52,2007,Gabon,GAB,89,NA
+Aedes aegypti,3859,published,point,-999,0.41,9.46,2007,Gabon,GAB,89,NA
+Aedes aegypti,3860,published,point,-999,0.41,9.44,2007,Gabon,GAB,89,NA
+Aedes aegypti,3861,published,point,-999,0.43,9.47,2007,Gabon,GAB,89,NA
+Aedes aegypti,3862,published,point,-999,0.43,9.49,2007,Gabon,GAB,89,NA
+Aedes aegypti,3863,published,point,-999,0.44,9.44,2007,Gabon,GAB,89,NA
+Aedes aegypti,3864,published,point,-999,0.44,9.43,2007,Gabon,GAB,89,NA
+Aedes aegypti,3865,published,point,-999,0.44,9.5,2007,Gabon,GAB,89,NA
+Aedes aegypti,3866,published,point,-999,0.47,9.41,2007,Gabon,GAB,89,NA
+Aedes aegypti,3867,published,point,-999,0.49,9.4,2007,Gabon,GAB,89,NA
+Aedes aegypti,3870,published,point,-999,0.99,9.59,2007,Gabon,GAB,89,NA
+Aedes aegypti,3873,published,point,-999,1.6,11.58,2007,Gabon,GAB,89,NA
+Aedes albopictus,41003,published,point,-999,0.39,9.45,2007,Gabon,GAB,89,NA
+Aedes albopictus,41389,published,Less than 100km,Less than 100km,0.39,9.45,2007,Gabon,GAB,89,NA
+Aedes albopictus,41507,published,point,-999,-0.83,12.72,2007,Gabon,GAB,89,NA
+Aedes albopictus,41508,published,point,-999,0.31,9.51,2007,Gabon,GAB,89,NA
+Aedes albopictus,41509,published,point,-999,0.37,9.46,2007,Gabon,GAB,89,NA
+Aedes albopictus,41510,published,point,-999,0.37,9.48,2007,Gabon,GAB,89,NA
+Aedes albopictus,41511,published,point,-999,0.38,9.46,2007,Gabon,GAB,89,NA
+Aedes albopictus,41512,published,point,-999,0.39,9.48,2007,Gabon,GAB,89,NA
+Aedes albopictus,41513,published,point,-999,0.4,9.48,2007,Gabon,GAB,89,NA
+Aedes albopictus,41514,published,point,-999,0.41,9.52,2007,Gabon,GAB,89,NA
+Aedes albopictus,41515,published,point,-999,0.41,9.46,2007,Gabon,GAB,89,NA
+Aedes albopictus,41516,published,point,-999,0.41,9.44,2007,Gabon,GAB,89,NA
+Aedes albopictus,41517,published,point,-999,0.43,9.47,2007,Gabon,GAB,89,NA
+Aedes albopictus,41518,published,point,-999,0.43,9.49,2007,Gabon,GAB,89,NA
+Aedes albopictus,41519,published,point,-999,0.44,9.44,2007,Gabon,GAB,89,NA
+Aedes albopictus,41520,published,point,-999,0.44,9.5,2007,Gabon,GAB,89,NA
+Aedes albopictus,41521,published,point,-999,0.47,9.41,2007,Gabon,GAB,89,NA
+Aedes albopictus,41522,published,point,-999,0.49,9.4,2007,Gabon,GAB,89,NA
+Aedes albopictus,41523,published,point,-999,0.99,9.59,2007,Gabon,GAB,89,NA
+Aedes albopictus,41524,published,point,-999,1.6,11.58,2007,Gabon,GAB,89,NA
+Aedes albopictus,41546,published,point,-999,0.44,9.43,2007,Gabon,GAB,89,NA
+Aedes aegypti,4000,published,point,-999,13.03,-13.3,2007,Senegal,SEN,217,NA
+Aedes aegypti,4001,published,point,-999,13.04,-13.3,2007,Senegal,SEN,217,NA
+Aedes aegypti,4022,published,point,-999,14.19,-12.71,2007,Senegal,SEN,217,NA
+Aedes aegypti,4023,published,point,-999,14.19,-12.71,2007,Senegal,SEN,217,NA
+Aedes aegypti,4025,published,point,-999,14.61,-16.41,2007,Senegal,SEN,217,NA
+Aedes aegypti,4026,published,point,-999,14.63,-16.45,2007,Senegal,SEN,217,NA
+Aedes aegypti,4030,published,point,-999,14.86,-15.88,2007,Senegal,SEN,217,NA
+Aedes aegypti,4031,published,point,-999,14.87,-15.9,2007,Senegal,SEN,217,NA
+Aedes aegypti,4033,published,point,-999,15.62,-16.25,2007,Senegal,SEN,217,NA
+Aedes aegypti,4034,published,point,-999,15.62,-16.22,2007,Senegal,SEN,217,NA
+Aedes aegypti,4038,published,point,-999,16.02,-16.49,2007,Senegal,SEN,217,NA
+Aedes aegypti,4039,published,point,-999,16.03,-16.5,2007,Senegal,SEN,217,NA
+Aedes aegypti,4040,published,point,-999,16.18,-15.75,2007,Senegal,SEN,217,NA
+Aedes aegypti,4041,published,point,-999,16.2,-15.69,2007,Senegal,SEN,217,NA
+Aedes aegypti,4257,published,point,-999,5.25,-4,2008,C™te d'Ivoire,CIV,66,NA
+Aedes aegypti,4258,published,point,-999,5.29,-4.01,2008,C™te d'Ivoire,CIV,66,NA
+Aedes albopictus,,"Müller, G. C., Tsabari, O., Traore, M. M., Traore, S. F., Doumbia, S., Kravchenko, V. D., ... & Beier, J. C. (2016). First record of Aedes albopictus in inland Africa along the River Niger in Bamako and Mopti, Mali. Acta tropica, 162, 245-247.",point,-999,14.53,-4.2,2008,Mali,,,NEW
+Aedes aegypti,4336,published,point,-999,12.41,-12.01,2008,Senegal,SEN,217,NA
+Aedes aegypti,4340,published,point,-999,12.58,-16.28,2008,Senegal,SEN,217,NA
+Aedes aegypti,4341,published,point,-999,12.6,-12.23,2008,Senegal,SEN,217,NA
+Aedes aegypti,4343,published,point,-999,12.7,-15.56,2008,Senegal,SEN,217,NA
+Aedes aegypti,4346,published,point,-999,13.01,-12.55,2008,Senegal,SEN,217,NA
+Aedes aegypti,4349,published,point,-999,13.21,-13.11,2008,Senegal,SEN,217,NA
+Aedes aegypti,4362,published,point,-999,13.98,-14.8,2008,Senegal,SEN,217,NA
+Aedes aegypti,4363,published,point,-999,14.17,-16.82,2008,Senegal,SEN,217,NA
+Aedes aegypti,4377,published,point,-999,14.72,-17.49,2008,Senegal,SEN,217,NA
+Aedes aegypti,4386,published,point,-999,14.92,-16.99,2008,Senegal,SEN,217,NA
