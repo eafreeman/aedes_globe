@@ -5,12 +5,19 @@ library(magrittr) # for piping functionality, i.e., %>%
 library(maptools) # reading shapefiles
 library(tidyverse)
 library(usdm)
-##################################################
-### to begin: run all of data, VIF,           ###
-### and for_maxent scripts first              ###         
-################################################
 
-#Using all Aedes data from all data sources
+# following tutorial from:
+# https://scottrinnan.wordpress.com/2015/08/31/how-to-construct-a-bias-file-with-r-for-use-in-maxent-modeling/
+
+##########################################################
+###   *to begin: run all of data, VIF,                 ###
+###    and for_maxent scripts first*                   ###
+###                                                    ###
+###    Using all Aedes spp. data from all data sources ###
+###    (GLOBE MHM and 99-18 literature)                ###
+##########################################################
+
+#join all datasets first 
 
 globe <- globe %>%
   rename(OCCURRENCE_ID = site_id) %>%
@@ -25,6 +32,7 @@ two <- full_join(globe, lit_09_18, by = c("X", "Y", "OCCURRENCE_ID"))
 
 all_aedes <- full_join(two, lit_99_08, by = c("X", "Y", "OCCURRENCE_ID"))
 
+#pull in climate raster from for_maxent.R
 
 climdat <- brick(ma.bio) #set climate data
 

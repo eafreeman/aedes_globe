@@ -1,52 +1,19 @@
-# For MaxEnt 
 library(raster)
 library(tidyverse)
 
-globe <- globe %>%
-  mutate(measured_on = ymd(measured_on)) %>%
-  select(site_id, org_name, latitude, longitude, elevation, measured_on,
-         `mosquito habitat mapper:data source`,
-         `mosquito habitat mapper:measured at`,
-         `mosquito habitat mapper:water source type`,
-         `mosquito habitat mapper:water source`,
-         `mosquito habitat mapper:larvae count`,
-         `mosquito habitat mapper:mosquito eggs`,
-         `mosquito habitat mapper:mosquito egg count`,
-         `mosquito habitat mapper:mosquito pupae`,
-         `mosquito habitat mapper:mosquito adults`,
-         `mosquito habitat mapper:genus`,
-         `mosquito habitat mapper:species`) %>%
-  mutate(site_id = as.numeric(site_id))%>%
-  mutate(latitude = as.numeric(latitude))%>%
-  mutate(longitude = as.numeric(longitude))%>%
-  filter(`mosquito habitat mapper:data source` == "GLOBE Observer App") %>%
-  filter(`mosquito habitat mapper:larvae count` < 199 | 
-           `mosquito habitat mapper:mosquito pupae` == TRUE |
-           `mosquito habitat mapper:mosquito eggs` == TRUE |
-           `mosquito habitat mapper:mosquito adults` == TRUE ) %>%
-  filter(`mosquito habitat mapper:genus` == "Aedes") %>%
-  mutate(latitude = round(latitude, digits = 3)) %>%
-  mutate(longitude = round(longitude, digits = 3))
+#####################################################
+###   Creating bioclim raster files for maxent    ###
+###                                               ###
+###   To start: download 2.5m resolution          ###
+###   historic bioclimatic variables from         ###
+###              worldclim.org                    ###
+#####################################################
 
-
-globe %>%
-  group_by(site_id)
-
-maxent_aaegypti <- aedes %>%
-  filter(`mosquito habitat mapper:larvae count` < 199 | 
-           `mosquito habitat mapper:mosquito pupae` == TRUE |
-           `mosquito habitat mapper:mosquito eggs` == TRUE |
-           `mosquito habitat mapper:mosquito adults` == TRUE ) %>%
-  filter(`mosquito habitat mapper:species` == "aegypti") %>%
-  group_by(site_id)
-
-write.csv(maxent_aaegypti, "maxent_aaegypti.csv")
-
-?raster
-
-?extent
+#set study area
 
 ma.area <- extent(-30, 20, -10, 20)
+
+#rewrite .tif files as .asc for use in maxent software and set to study area
 
 bio1 <- raster("wc2.1_2.5m_bio/wc2.1_2.5m_bio_1.tif", xmin = -30, xmax = 20,
                                                       ymin = -10, ymax = 20)

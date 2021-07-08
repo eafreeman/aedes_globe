@@ -1,9 +1,13 @@
-install.packages("usdm")
 library(usdm)
 library(raster)
 
-#to run VIF, setting tf = 5, creating first dataset x of all variables to run
-#run data from "for_maxent.R"
+#########################################################
+###   *First run all code from "for_maxent.R*         ###
+###                                                   ###
+###   VIF basics: tf = 5, create first stack of all   ###
+###   variables (x). Eliminate variable with highest  ###
+###   VIF until are in stack (xn) are under 5         ###
+#########################################################
 
 
 x <- stack(c(ma.bio, ma.bio2, ma.bio3, ma.bio4, ma.bio5, ma.bio6, ma.bio7, 
